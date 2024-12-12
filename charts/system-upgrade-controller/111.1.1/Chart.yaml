@@ -12,4 +12,4 @@ description: General purpose controller to make system level updates to nodes.
 home: https://github.com/rancher/system-upgrade-controller
 kubeVersion: '>= 1.25.0-0'
 name: system-upgrade-controller
-version: 105.0.1
+version: 111.1.1
