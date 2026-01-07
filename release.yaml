@@ -70,3 +70,5 @@ neuvector-monitor:
 neuvector-crd:
   - 104.1.0+up2.8.10
   - 105.0.7+up2.8.10
+system-upgrade-controller:
+  - 108.0.1
