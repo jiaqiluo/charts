@@ -1,0 +1,11 @@
+--- charts-original/values.yaml
++++ charts/values.yaml
+@@ -1,6 +1,6 @@
+ image:
+-  repository: rancher/mirrored-cluster-api-controller
+-  tag: v1.10.6
++  repository: registry.k8s.io/cluster-api/cluster-api-controller
++  tag: v1.11.4
+   imagePullPolicy: IfNotPresent
+ 
+ global:
